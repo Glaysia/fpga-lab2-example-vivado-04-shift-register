@@ -1,0 +1,19 @@
+{
+  "path": "vivado_2026_1/04_shift_register",
+  "tool": "Vivado 2026.1 XSim",
+  "execution": "batch, no GUI",
+  "status": "PASS",
+  "marker": "LAB2_PASS shift_register4 checks=8",
+  "commands_exit_code": [
+    0,
+    0,
+    0
+  ],
+  "inputs_sha256": {
+    "src/shift_register4.v": "6c221a38ef5b96f2b8061e2b614497d43f32ff09916c4d349e05e88290851e89",
+    "src/input_frontend.v": "a866edb1f9b3477914c19a8c6bf237d885348348dd18582dca14e410d622a337",
+    "src/lab2_shift_register.v": "5212d5d01d655d09c5e341f766bd8681f96e5a9b77cef4c93146d36d20f8133c",
+    "sim/tb_shift_register4.sv": "1683da25534c5ea9284a14877303d5e5cd2ee6fca439036a5eee79515cad13a3"
+  },
+  "run_directory": "tmp/lab2-xsim/04_shift_register-1789046426259817600"
+}
